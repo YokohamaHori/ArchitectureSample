@@ -5,6 +5,8 @@ iOS architecture sample
 
 This project offers an interactive exploration of various architectural patterns and frameworks commonly used in iOS development. The user can select one of the architectural patterns from a list, and the corresponding view or scene will be displayed, showing how each pattern or framework is implemented in practice.
 
+https://qiita.com/YokohamaHori/items/e13fab6d4ac0a8cedbd3
+
 ## Features
 
 - List of various architectural patterns including:
@@ -20,7 +22,8 @@ This project offers an interactive exploration of various architectural patterns
 
 ## Requirements
 
-- Xcode 14.0+
+- Xcode 14.2+
+- iOS 16.2+
 - Dependencies: 
   - `ComposableArchitecture`
   - `SwiftUI`
